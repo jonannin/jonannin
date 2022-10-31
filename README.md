@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonannin
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Algorithms needed for Machine Learning
+- 🌱 I’m currently learning Algorithms needed for Artificial Intelligence
 - 💞️ I’m looking to collaborate on Data Science and Artificial Intelligence Projects
 - 📫 I can be reached on jonannin@gmail.com
 
